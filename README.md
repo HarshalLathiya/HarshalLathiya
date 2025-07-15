@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarshalLathiya](https://github.com/HarshalLathiya)
 
-- 🎓 I'm a BCA Student! [Currently learning, building, and growing in the world of tech and development.](Currently learning, building, and growing in the world of tech and development.)
+- 🎓 I'm a BCA Student! Currently learning, building, and growing in the world of tech and development.(Currently learning, building, and growing in the world of tech and development.)
 
 - 💬 Ask me about **💻 Full stack dev (Node.js, PHP, MySQL), ⚙️ DBMS, 📊 GCP & Google Analytics, 🧠 Data Structures, 🧑‍💻 Git & GitHub, and 🎨 Bootstrap + JS.**
 
