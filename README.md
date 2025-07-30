@@ -102,5 +102,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshallathiya&show_icons=true&locale=en&layout=compact" alt="harshallathiya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshallathiya&show_icons=true&locale=en" alt="harshallathiya" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshallathiya" alt="GitHub Streak" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshallathiya&" alt="harshallathiya" /></p>
