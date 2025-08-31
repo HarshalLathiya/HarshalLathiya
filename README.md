@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AgriMotors**
 
-- 🌱 I’m currently learning **GCP ☁️, Node.js ⚙️, Express.js 🚀, Next.js ⚛️, TypeScript 🧩, Tailwind CSS 🎨, DSA 🧠, Java ☕, and CMAT prep 📚**
+- 🌱 I’m currently learning **GCP ☁️, Node.js ⚙️, Express.js 🚀, Next.js ⚛️, TypeScript 🧩, Tailwind CSS 🎨, DSA 🧠, Java ☕, and CMAT prep 📚 IELTS 🇦🇺**
 
 - 🤝 I’m open to freelance projects [Freelance Developer building responsive, scalable websites. Open to collaborations & new opportunities. Let’s connect!](https://www.linkedin.com/in/harshal-lathiya11/)
 
