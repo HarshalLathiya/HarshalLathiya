@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full-Stack Developer from India,and tech enthusiast.</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F74B&center=true&vCenter=true&width=435&lines=Turning+Coffee+into+Code;Full-Stack+Enthusiast;Photographer+at+Heart;Forever+Learning+%3C3" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F74B&center=true&vCenter=true&width=435&lines=Full-Stack+Enthusiast;Forever+Learning+%3C3" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
