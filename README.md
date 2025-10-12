@@ -49,7 +49,7 @@
 
 ### 🧩 Featured Projects
 
-#### 🔹 [QR Code Generator]((https://photos.app.goo.gl/6RtaJm12Mwn8TLCV8))
+#### 🔹 [QR Code Generator](https://github.com/HarshalLathiya/QR_Code_Project)
 > A modern full-stack web application to create, customize, and manage QR codes with advanced user and admin features.  
 > Includes secure JWT authentication, styled QR customization, and an analytics dashboard.  
 **Tech Used:** React.js · Node.js · Express.js · MySQL · Docker · HTML5 · CSS3  
