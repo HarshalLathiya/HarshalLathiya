@@ -1,8 +1,10 @@
 <h1 align="center">👋 Hello World, I'm Harshal Lathiya!</h1>
-<h3 align="center">A Passionate Full-Stack Developer from India,and tech enthusiast.</h3>
+<h3 align="center">A Passionate Full-Stack Developer & Tech Enthusiast from India 🚀</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F74B&center=true&vCenter=true&width=435&lines=Full-Stack+Enthusiast;Forever+Learning+%3C3" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F74B&center=true&vCenter=true&width=435&lines=Full-Stack+Enthusiast;Forever+Learning+%3C3" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -22,22 +24,54 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I’m a **BCA Student** passionate about building robust and scalable web applications.
-- 🔭 I’m currently working on **[AgriMotors](https://github.com/HarshalLathiya)**, a project aimed at revolutionizing the agricultural sector.
-- 🌱 I’m currently diving deep into **GCP ☁️, Node.js, Express.js, Next.js, TypeScript, and Tailwind CSS.**
-- 🧠 Also sharpening my skills in **DSA, Java, and preparing for CMAT & IELTS.**
-- 📸 **Fun Fact:** When I'm not coding, you'll find me behind a camera, framing the perfect shot. I believe coding and photography are both forms of art and problem-solving.
-- 💼 Open to **freelance opportunities** and **collaborations** on innovative projects.
+- 🎓 A **BCA Student** passionate about building robust and scalable web applications.
+- 🔭 Currently working on **QR Code Generator** and **FITGROCER**, real-world full-stack applications using modern tech stacks.
+- 🌱 Exploring **Google Cloud Platform (GCP)**, **React.js**, **Node.js**, **Express.js**, **TypeScript**, and **Tailwind CSS**.
+- 🧠 Continuously improving in **Data Structures**, **Algorithms**, and preparing for **CMAT & IELTS**.
+- 📸 **Fun Fact:** When not coding, I capture the world through my lens — awarded the **State Photography Award (2023)** 🏆.
+- 💼 Open to **freelance opportunities** and **collaborations** on innovative tech projects.
+
+---
 
 ### 🛠️ Tech Stack
 
-| Category        | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Frontend**    | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)                                                                             |
-| **Backend**     | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)                                                                                                                                                                                 |
-| **Database**    | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)                                                                                                                                                                             |
-| **Languages**   | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)                            |
-| **Tools & Cloud** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| Category | Technologies |
+|-----------|---------------|
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-8BC34A?style=flat&logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![JakartaEE](https://img.shields.io/badge/Jakarta%20EE-FE7A16?style=flat&logo=java&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
+| **Cloud & Tools** | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![GitBash](https://img.shields.io/badge/GitBash-4EAA25?style=flat&logo=gnubash&logoColor=white) |
+| **Programming Languages** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
+| **Other Skills** | ![Software QA](https://img.shields.io/badge/Software%20Quality%20Assurance-4CAF50?style=flat&logo=testinglibrary&logoColor=white) ![Database Management](https://img.shields.io/badge/DBMS-6D4C41?style=flat) ![Data Structures](https://img.shields.io/badge/Data%20Structures-2196F3?style=flat) ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white) |
+| **Soft Skills** | 🕐 Time Management · 💡 Critical Thinking · 🗣️ Presentation Skills · 📸 Photography · 🗣️ Spoken English |
+
+---
+
+### 🧩 Featured Projects
+
+#### 🔹 [QR Code Generator](https://github.com/HarshalLathiya/QR_Code_Project)
+> A modern full-stack web application to create, customize, and manage QR codes with advanced user and admin features.  
+> Includes secure JWT authentication, styled QR customization, and an analytics dashboard.  
+**Tech Used:** React.js · Node.js · Express.js · MySQL · Docker · HTML5 · CSS3  
+
+#### 🔹 [FITGROCER](https://github.com/HarshalLathiya/FITGROCER)
+> Grocery Management System built with Node.js, React.js, and MySQL for user and admin modules.  
+**Features:** Account creation, secure login, order tracking, and admin product control.  
+**Tech Used:** React.js · Node.js · Express.js · EJS · MySQL · CSS3 · HTML5  
+
+#### 🔹 [PixelCraft Portfolio](https://harshallathiya.github.io/Bootstrap/My_web_framework/my_website.html)
+> Photography portfolio showcasing categorized albums with responsive UI and lightbox view.  
+**Tech Used:** HTML5 · CSS3 · JavaScript · Bootstrap  
+
+---
+
+### 📜 Certifications
+
+- 🎓 **Google Analytics Certification** — Google  
+  *Skills:* Google Analytics · Google Cloud Platform (GCP)
+- 🏆 **State Photography Award (2023)** — NYKS India  
+  *Skill:* Photography  
+- 🗣️ **Spoken English Certification** — Expert Spoken English  
 
 ---
 
@@ -69,6 +103,3 @@
 <p align="center">
    <i>⚡ Code. Click. Create. ⚡</i>
 </p>
-
-
-"enhance my github readme file !"
