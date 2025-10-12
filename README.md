@@ -67,10 +67,8 @@
 
 ### 📜 Certifications
 
-- 🎓 **Google Analytics Certification** — Google  
-  *Skills:* Google Analytics · Google Cloud Platform (GCP)
-- 🏆 **State Photography Award (2023)** — NYKS India  
-  *Skill:* Photography  
+- 🎓 **Google Analytics Certification** — Google Skills Shop 
+- 🏆 **State Photography Award (2023)** — NYKS India
 - 🗣️ **Spoken English Certification** — Expert Spoken English  
 
 ---
