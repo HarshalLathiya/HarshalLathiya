@@ -54,7 +54,7 @@
 > Includes secure JWT authentication, styled QR customization, and an analytics dashboard.  
 **Tech Used:** React.js · Node.js · Express.js · MySQL · Docker · HTML5 · CSS3  
 
-#### 🔹 [FITGROCER](https://github.com/HarshalLathiya/FITGROCER)
+#### 🔹 [FITGROCER](https://github.com/HarshalLathiya/FITGROCER_Grocery_Management_System-.git)
 > Grocery Management System built with Node.js, React.js, and MySQL for user and admin modules.  
 **Features:** Account creation, secure login, order tracking, and admin product control.  
 **Tech Used:** React.js · Node.js · Express.js · EJS · MySQL · CSS3 · HTML5  
