@@ -25,8 +25,8 @@
 ### 🧑‍💻 About Me
 
 - 🎓 A **BCA Student** passionate about building robust and scalable web applications.
-- 🔭 Currently working on **QR Code Generator** and **FITGROCER**, real-world full-stack applications using modern tech stacks.
-- 🌱 Exploring **Google Cloud Platform (GCP)**, **React.js**, **Node.js**, **Express.js**, **TypeScript**, and **Tailwind CSS**.
+- 🔭 I’m currently working on **[AgriMotors](https://github.com/HarshalLathiya)**, a project aimed at revolutionizing the agricultural sector.
+- 🌱 Exploring **Google Cloud Platform (GCP)**, **React.js**, **Node.js**, **Express.js**.
 - 🧠 Continuously improving in **Data Structures**, **Algorithms**, and preparing for **CMAT & IELTS**.
 - 📸 **Fun Fact:** When not coding, I capture the world through my lens — awarded the **State Photography Award (2023)** 🏆.
 - 💼 Open to **freelance opportunities** and **collaborations** on innovative tech projects.
