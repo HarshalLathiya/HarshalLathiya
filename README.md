@@ -96,7 +96,7 @@
 
 - 📧 **Email:** [Harshalplathiya@gmail.com](mailto:Harshalplathiya@gmail.com)
 - 💼 **LinkedIn:** [Harshal Lathiya](https://www.linkedin.com/in/harshal-lathiya11/)
-- 📷 **Photography Portfolio:** [View My Work](https://harshallathiya.github.io/Bootstrap/My_web_framework/my_website.html)
+- 👨‍💻 **Portfolio Website:** [View My Work](https://harshallathiya.github.io/My_Portfolio/)
 
 <p align="center">
    <i>⚡ Code. Click. Create. ⚡</i>
