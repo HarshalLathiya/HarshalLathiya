@@ -5,7 +5,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F74B&center=true&vCenter=true&width=435&lines=Full-Stack+Enthusiast;Forever+Learning+%3C3" alt="Typing SVG" />
   </a>
 </p>
-### 🧑‍💻 About Me
+  <img src="https://komarev.com/ghpvc/?username=harshallathiya&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="harshallathiya" />
+### About Me 👨‍💻
 
 - 🎓 A **BCA Student** passionate about building robust and scalable web applications.
 - 🔭 I’m currently working on **[AgriMotors](https://github.com/HarshalLathiya)**, a project aimed at revolutionizing the agricultural sector.
@@ -87,7 +88,6 @@
   <a href="https://harshallathiya.github.io/My_Portfolio/">
     <img src="https://img.shields.io/badge/My-Portfolio-009dff?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=harshallathiya&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="harshallathiya" />
 </p>
 
 ---
