@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hello World, I'm Harshal Lathiya!</h1>
 <h3 align="center">A Passionate Full-Stack Developer & Tech Enthusiast from India 🚀</h3>
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F74B&center=true&vCenter=true&width=435&lines=Full-Stack+Enthusiast;Forever+Learning+%3C3" alt="Typing SVG" />
+  </a>
+</p>
 ### 🧑‍💻 About Me
 
 - 🎓 A **BCA Student** passionate about building robust and scalable web applications.
@@ -72,11 +76,6 @@
 ---
 
 ### 📫 Let's Connect!
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F74B&center=true&vCenter=true&width=435&lines=Full-Stack+Enthusiast;Forever+Learning+%3C3" alt="Typing SVG" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshal-lathiya11/">
@@ -86,7 +85,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://harshallathiya.github.io/My_Portfolio/">
-    <img src="https://img.shields.io/badge/Photography-Portfolio-009dff?style=for-the-badge&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/My-Portfolio-009dff?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=harshallathiya&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="harshallathiya" />
 </p>
