@@ -34,18 +34,12 @@
 ### 🧩 Featured Projects
 
 #### 🔹  [QR Code Generator](https://github.com/HarshalLathiya/QR_Code_Project_.git)
-> A modern full-stack web application to create, customize, and manage QR codes with advanced user and admin features.  
-> Includes secure JWT authentication, styled QR customization, and an analytics dashboard.  
-**Tech Used:** React.js · Node.js · Express.js · MySQL · Docker · HTML5 · CSS3  
+  
 
 #### 🔹 [FITGROCER](https://github.com/HarshalLathiya/FITGROCER_Grocery_Management_System-.git)
-> Grocery Management System built with Node.js, React.js, and MySQL for user and admin modules.  
-**Features:** Account creation, secure login, order tracking, and admin product control.  
-**Tech Used:** React.js · Node.js · Express.js · EJS · MySQL · CSS3 · HTML5  
 
-#### 🔹 [PixelCraft Portfolio](https://harshallathiya.github.io/Bootstrap/My_web_framework/my_website.html)
-> Photography portfolio showcasing categorized albums with responsive UI and lightbox view.  
-**Tech Used:** HTML5 · CSS3 · JavaScript · Bootstrap  
+
+#### 🔹 [PixelCraft Portfolio](https://harshallathiya.github.io/Bootstrap/My_web_framework/my_website.html)  
 
 ---
 
