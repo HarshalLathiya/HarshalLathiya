@@ -5,7 +5,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F74B&center=true&vCenter=true&width=435&lines=Full-Stack+Enthusiast;Forever+Learning+%3C3" alt="Typing SVG" />
   </a>
 </p>
-  <img src="https://komarev.com/ghpvc/?username=harshallathiya&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="harshallathiya" />
+<centre>
+  <img src="https://komarev.com/ghpvc/?username=harshallathiya&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="harshallathiya" /> 
+</centre>
 
 ### 🔹 About Me
 
