@@ -50,7 +50,7 @@
 - 🏆 **State Photography Award (2023)** — NYKS India
 - 🗣️ **Spoken English Certification** — Expert Spoken English  
 - 🧑‍💻 **CodeToWeb** — RK University Rajkot
-- ⛎ **Introduction to programming with Python Certificatio** — Geeksforgeeks
+- ⛎ **Introduction to programming Using Python Certification** — Geeksforgeeks
 ---
 
 ### 📊 GitHub Stats
