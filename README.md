@@ -5,9 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F74B&center=true&vCenter=true&width=435&lines=Full-Stack+Enthusiast;Forever+Learning+%3C3" alt="Typing SVG" />
   </a>
 </p>
-<centre>
-  <img src="https://komarev.com/ghpvc/?username=harshallathiya&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="harshallathiya" /> 
-</centre>
+  <img  align="center" src="https://komarev.com/ghpvc/?username=harshallathiya&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="harshallathiya" /> 
 
 ### 🔹 About Me
 
@@ -38,11 +36,11 @@
 
 #### 🔹  [QR Code Generator](https://github.com/HarshalLathiya/QR_Code_Project_.git)
   
-
 #### 🔹 [FITGROCER](https://github.com/HarshalLathiya/FITGROCER_Grocery_Management_System-.git)
 
+#### 🔹 [PixelCraft Portfolio](https://harshallathiya.github.io/Bootstrap/My_web_framework/my_website.html) 
 
-#### 🔹 [PixelCraft Portfolio](https://harshallathiya.github.io/Bootstrap/My_web_framework/my_website.html)  
+#### 🔹  [AgriMotors](https://github.com/HarshalLathiya/agrimotors_.git)
 
 ---
 
@@ -51,7 +49,8 @@
 - 🎓 **Google Analytics Certification** — Google Skills Shop 
 - 🏆 **State Photography Award (2023)** — NYKS India
 - 🗣️ **Spoken English Certification** — Expert Spoken English  
-
+- 🧑‍💻 **CodeToWeb** — RK University Rajkot
+- ⛎ **Introduction to programming with Python Certificatio** — Geeksforgeeks
 ---
 
 ### 📊 GitHub Stats
@@ -88,6 +87,3 @@
 </p>
 
 ---
-<p align="center">
-   <i>⚡ Code. Click. Create. ⚡</i>
-</p>
