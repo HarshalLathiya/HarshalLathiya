@@ -1,4 +1,4 @@
-<!-- <h1 align="center">👋 Hello World, I'm Harshal Lathiya!</h1> -->
+<h1 align="center">👋 Hello World, I'm Harshal Lathiya!</h1>
 <h3 align="center">A Passionate Full-Stack Developer & Tech Enthusiast from India 🚀</h3>
 <p align="center">
   <a href="https://git.io/typing-svg">
