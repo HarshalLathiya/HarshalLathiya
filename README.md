@@ -51,6 +51,8 @@
 - 🗣️ **Spoken English Certification** — Expert Spoken English  
 - 🧑‍💻 **CodeToWeb** — RK University Rajkot
 - ⛎ **Introduction to programming Using Python Certification** — Geeksforgeeks
+- ☕ **Java SkillUp Certification** — Geeksforgeeks
+
 ---
 
 ### 📊 GitHub Stats
