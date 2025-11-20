@@ -42,7 +42,7 @@
 
 #### 🔹  [AgriMotors](https://github.com/HarshalLathiya/AgriMotors.git)
 
-#### 🔹  [Car Rental System ](https://github.com/HarshalLathiya/Car_rental.git)
+#### 🔹  [BookMyRide](https://github.com/HarshalLathiya/BookMyRide.git)
 
 ---
 
