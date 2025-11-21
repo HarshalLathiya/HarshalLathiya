@@ -88,6 +88,9 @@
   <a href="https://harshallathiya.github.io/My_Portfolio/">
     <img src="https://img.shields.io/badge/My-Portfolio-009dff?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
+  <a href="https://www.youtube.com/@LathiyaHarshal">
+  <img src="https://img.shields.io/badge/YouTube-LathiyaHarshal-red?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 </p>
 
 ---
