@@ -40,9 +40,9 @@
 
 #### 🔹 [PixelCraft Portfolio](https://harshallathiya.github.io/Bootstrap/My_web_framework/my_website.html) 
 
-#### 🔹  [AgriMotors](https://github.com/HarshalLathiya/AgriMotors.git)
-
 #### 🔹  [BookMyRide](https://github.com/HarshalLathiya/BookMyRide.git)
+
+#### 🔹  [Human_Resource_Management_System](https://github.com/HarshalLathiya/odoo_hackathon_Human_Resource_Management_System.git)
 
 ---
 
