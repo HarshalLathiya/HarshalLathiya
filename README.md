@@ -10,7 +10,7 @@
 ### 🔹 About Me
 
 - 🎓 A **IT Student** passionate about building robust and scalable web applications.
-- 🔭 I’m currently working on **[AgriMotors](https://github.com/HarshalLathiya)**, a project aimed at revolutionizing the agricultural sector.
+- 🔭 I’m currently working on **[Global Tour management System](https://github.com/HarshalLathiya)**, a project aimed at revolutionizing the agricultural sector.
 - 🌱 Exploring **Google Cloud Platform (GCP)**, **React.js**, **Node.js**, **Express.js**.
 - 🧠 Continuously improving in **Data Structures**, **Algorithms**, and preparing for **CMAT**.
 - 📸 **Fun Fact:** When not coding, I capture the world through my lens.
