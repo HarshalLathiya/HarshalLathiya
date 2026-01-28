@@ -5,15 +5,14 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F74B&center=true&vCenter=true&width=435&lines=Full-Stack+Enthusiast;Forever+Learning+%3C3" alt="Typing SVG" />
   </a>
 </p>
-  <img  align="center" src="https://komarev.com/ghpvc/?username=harshallathiya&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="harshallathiya" /> 
+<img align="center" src="https://komarev.com/ghpvc/?username=harshallathiya&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="harshallathiya" /> 
 
 ### 🔹 About Me
 
 - 🎓 A **BCA 6th Semester IT Student** passionate about building robust and scalable web applications.
-- 🏆 Awarded **3 trophies across 3 years of BCA**, including **ranker / achievement-based felicitation** at Gajera Campus.
 - 🔭 I’m currently working on **[Global Tour Management System](https://github.com/HarshalLathiya)**, a full-stack project based on real-world tour planning and management workflows.
-- 🌱 Exploring **Google Cloud Platform (GCP)**, **React.js**, **Node.js**, **Express.js**.
-- 🧠 Continuously improving in **Data Structures**, **Algorithms**, and preparing for **CMAT**.
+- 🌱 Currently deepening skills in **MERN Stack** and **Google Cloud Platform (GCP)**.
+- 🧠 Continuously improving in **Data Structures**, **Algorithms**, and backend engineering fundamentals.
 - 📸 **Fun Fact:** When not coding, I capture the world through my lens.
 - 💼 Open to **freelance opportunities** and **collaborations** on innovative tech projects.
 
@@ -24,37 +23,34 @@
 | Category | Technologies |
 |-----------|---------------|
 | **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-8BC34A?style=flat&logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![JakartaEE](https://img.shields.io/badge/Jakarta%20EE-FE7A16?style=flat&logo=java&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) |
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
 | **Cloud & Tools** | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![GitBash](https://img.shields.io/badge/GitBash-4EAA25?style=flat&logo=gnubash&logoColor=white) |
-| **Programming Languages** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
-| **Other Skills** | ![Software QA](https://img.shields.io/badge/Software%20Quality%20Assurance-4CAF50?style=flat&logo=testinglibrary&logoColor=white) ![Database Management](https://img.shields.io/badge/DBMS-6D4C41?style=flat) ![Data Structures](https://img.shields.io/badge/Data%20Structures-2196F3?style=flat) ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white) |
+| **Programming Languages** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
+| **Other Skills** | ![Database Management](https://img.shields.io/badge/DBMS-6D4C41?style=flat) ![Data Structures](https://img.shields.io/badge/Data%20Structures-2196F3?style=flat) ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white) |
 | **Soft Skills** | 🕐 Time Management · 💡 Critical Thinking · 🗣️ Presentation Skills · 📸 Photography · 🗣️ Spoken English |
 
 ---
 
 ### 🧩 Featured Projects
 
-#### 🔹  [QR Code Generator](https://github.com/HarshalLathiya/QR_Code_Project_.git)
-  
+#### 🔹 [QR Code Generator](https://github.com/HarshalLathiya/QR_Code_Project_.git)
 #### 🔹 [FITGROCER](https://github.com/HarshalLathiya/FITGROCER_Grocery_Management_System-.git)
-
 #### 🔹 [PixelCraft Portfolio](https://harshallathiya.github.io/Bootstrap/My_web_framework/my_website.html) 
-
-#### 🔹  [BookMyRide](https://github.com/HarshalLathiya/BookMyRide.git)
-
-#### 🔹  [Human_Resource_Management_System](https://github.com/HarshalLathiya/odoo_hackathon_Human_Resource_Management_System.git)
+#### 🔹 [BookMyRide](https://github.com/HarshalLathiya/BookMyRide.git)
+#### 🔹 [Human_Resource_Management_System](https://github.com/HarshalLathiya/odoo_hackathon_Human_Resource_Management_System.git)
 
 ---
 
-### 📜 Certifications
+### 📜 Certifications & Achievements
 
+- 🏆 **Ranker & Achievement Felicitation** — Gajera Campus
 - 🎓 **Google Analytics Certification** — Google Skills Shop 
 - 🏆 **State Photography Award (2023)** — NYKS India
 - 🗣️ **Spoken English Certification** — Expert Spoken English  
 - 🧑‍💻 **CodeToWeb** — RK University Rajkot
-- ⛎ **Introduction to programming Using Python Certification** — Geeksforgeeks
-- ☕ **Java SkillUp Certification** — Geeksforgeeks
+- ⛎ **Introduction to Programming Using Python** — GeeksforGeeks
+- ☕ **Java SkillUp Certification** — GeeksforGeeks
 
 ---
 
