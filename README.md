@@ -44,7 +44,7 @@
 
 ### 📜 Certifications & Achievements
 
-- 🏆 **Ranker & Achievement Felicitation** — Gajera Campus
+- 🏆 **Achievement Felicitation** — Gajera Campus
 - 🎓 **Google Analytics Certification** — Google Skills Shop 
 - 🏆 **State Photography Award (2023)** — NYKS India
 - 🗣️ **Spoken English Certification** — Expert Spoken English  
