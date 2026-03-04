@@ -32,13 +32,14 @@
 
 ---
 
-### 🧩 Featured Projects
+### 🧩 Featured Projects 
 
-#### 🔹 [QR Code Generator](https://github.com/HarshalLathiya/QR_Code_Project_.git)
+#### 🔹 [Tour_Management_System ](https://github.com/HarshalLathiya/Tour_Management_System.git)
 #### 🔹 [FITGROCER](https://github.com/HarshalLathiya/FITGROCER_Grocery_Management_System-.git)
-#### 🔹 [PixelCraft Portfolio](https://harshallathiya.github.io/Bootstrap/My_web_framework/my_website.html) 
-#### 🔹 [BookMyRide](https://github.com/HarshalLathiya/BookMyRide.git)
 #### 🔹 [Human_Resource_Management_System](https://github.com/HarshalLathiya/odoo_hackathon_Human_Resource_Management_System.git)
+#### 🔹 [BookMyRide](https://github.com/HarshalLathiya/BookMyRide.git)
+#### 🔹 [PixelCraft Portfolio](https://harshallathiya.github.io/Bootstrap/My_web_framework/my_website.html) 
+#### 🔹 [QR Code Generator](https://github.com/HarshalLathiya/QR_Code_Project_.git)
 
 ---
 
