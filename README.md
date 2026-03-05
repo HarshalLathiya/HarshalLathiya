@@ -1,10 +1,3 @@
-<h1 align="center">👋 Hello World, I'm Harshal Lathiya!</h1>
-<h3 align="center">A Passionate Full-Stack Developer & Tech Enthusiast from India 🚀</h3>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F74B&center=true&vCenter=true&width=435&lines=Full-Stack+Enthusiast;Forever+Learning+%3C3" alt="Typing SVG" />
-  </a>
-</p>
 <img align="center" src="https://komarev.com/ghpvc/?username=harshallathiya&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="harshallathiya" /> 
 
 ### 🔹 About Me
