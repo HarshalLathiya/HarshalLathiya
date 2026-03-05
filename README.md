@@ -48,25 +48,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshallathiya&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshallathiya&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshallathiya&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/HarshalLathiya">
-    <img src="https://github-profile-trophy.vercel.app/?username=harshallathiya&theme=radical&no-frame=true&row=1&column=6" />
-  </a>
-</p>
-
----
-
 ### 📫 Let's Connect!
 
 <p align="center">
