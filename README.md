@@ -3,7 +3,7 @@
 ### 🔹 About Me
 
 - 🎓 A **BCA 6th Semester IT Student** passionate about building robust and scalable web applications.
-- 🔭 I’m currently working on **[HR Management Systems ](https://github.com/HarshalLathiya)**, a full-stack project based on real-world tour planning and management workflows.
+- 🔭 I’m currently working on **[HR Management Systems ](https://github.com/HarshalLathiya)**, a full-stack project based on real-world planning and management workflows.
 - 🌱 Currently deepening skills in **PERN Stack** and **Google Cloud Platform (GCP)**.
 - 🧠 Continuously improving in **Data Structures**, **Algorithms**, and backend engineering fundamentals.
 - 📸 **Fun Fact:** When not coding, I capture the world through my lens.
