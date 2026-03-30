@@ -36,16 +36,6 @@
 
 ---
 
-### 📜 Certifications & Achievements
-
-- 🎓 **Google Analytics Certification** — Google Skills Shop 
-- 🏆 **State Photography Award (2023)** — NYKS India
-- 🗣️ **Spoken English Certification** — Expert Spoken English  
-- ⛎ **Introduction to Programming Using Python** — GeeksforGeeks
-- ☕ **Java SkillUp Certification** — GeeksforGeeks
-
----
-
 ### 📫 Let's Connect!
 
 <p align="center">
