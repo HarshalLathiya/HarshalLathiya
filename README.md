@@ -24,22 +24,20 @@
 | **Soft Skills** | 🕐 Time Management · 💡 Critical Thinking · 🗣️ Presentation Skills · 📸 Photography · 🗣️ Spoken English |
 
 ---
-
 ### 📫 Let's Connect!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/harshal-lathiya11/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a><br>
-  <a href="mailto:harshal.lathiya.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://harshallathiya.github.io/My_Portfolio/">
-    <img src="https://img.shields.io/badge/My-Portfolio-009dff?style=for-the-badge&logo=apple&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@LathiyaHarshal">
-    <img src="https://img.shields.io/badge/YouTube-LathiyaHarshal-red?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/harshal-lathiya11/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
----
+<a href="mailto:harshal.lathiya.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://harshallathiya.github.io/My_Portfolio/">
+  <img src="https://img.shields.io/badge/My-Portfolio-009dff?style=for-the-badge&logo=apple&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@LathiyaHarshal">
+  <img src="https://img.shields.io/badge/YouTube-LathiyaHarshal-red?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
