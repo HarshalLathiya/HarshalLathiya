@@ -35,5 +35,5 @@
 </a>
 
 <a href="https://harshallathiya.github.io/My_Portfolio/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logoColor=white" />
 </a>
