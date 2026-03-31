@@ -29,11 +29,11 @@
 <a href="https://www.linkedin.com/in/harshal-lathiya11/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<br>
+
 <a href="mailto:harshal.lathiya.dev@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<br>
+
 <a href="https://harshallathiya.github.io/My_Portfolio/">
-  <img src="https://img.shields.io/badge/My-Portfolio-009dff?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Harshal%20Lathiya-Portfolio-00C4CC?style=for-the-badge&logo=about-dot-me&logoColor=white" />
 </a>
