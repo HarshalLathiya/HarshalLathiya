@@ -25,23 +25,12 @@
 
 ---
 
-### 🧩 Featured Projects 
-
-#### 🔹 [Tour_Management_System ](https://github.com/HarshalLathiya/Tour_Management_System.git)
-#### 🔹 [FITGROCER](https://github.com/HarshalLathiya/FITGROCER_Grocery_Management_System-.git)
-#### 🔹 [Human_Resource_Management_System](https://github.com/HarshalLathiya/odoo_hackathon_Human_Resource_Management_System.git)
-#### 🔹 [BookMyRide](https://github.com/HarshalLathiya/BookMyRide.git)
-#### 🔹 [PixelCraft Portfolio](https://harshallathiya.github.io/Bootstrap/My_web_framework/my_website.html) 
-#### 🔹 [QR Code Generator](https://github.com/HarshalLathiya/QR_Code_Project_.git)
-
----
-
 ### 📫 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshal-lathiya11/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  </a><br>
   <a href="mailto:harshal.lathiya.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
