@@ -21,7 +21,7 @@
 | **Cloud & Tools** | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)|
 | **Programming Languages** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
 | **Other Skills** | ![Database Management](https://img.shields.io/badge/DBMS-6D4C41?style=flat) ![Data Structures](https://img.shields.io/badge/Data%20Structures-2196F3?style=flat) ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white) |
-| **Soft Skills** | 🕐 Time Management · 💡 Critical Thinking · 🗣️ Presentation Skills · 📸 Photography · 🗣️ Spoken English |
+| **Soft Skills** |💡 Problem Solving · 🗣️ Presentation Skills · 📸 Photography |
 
 ---
 ### 📫 Let's Connect!
