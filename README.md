@@ -3,7 +3,7 @@
 ### 🔹 About Me
 
 - 🎓 A **BCA Graduate (2026)** and aspiring **MCA student**, passionate about building robust and scalable web applications.
-- 🔭 I’m currently working on **[HR Management Systems ](https://github.com/HarshalLathiya)**, a full-stack project based on real-world planning and management workflows.
+- 🔭 I’m currently transforming innovative ideas into production-ready web and mobile applications, with a strong focus on usability and scalability.
 - 🌱 Currently deepening skills in **PERN Stack** and **Google Cloud Platform (GCP)**.
 - 🧠 Continuously improving in **Data Structures**, **Algorithms**, and backend engineering fundamentals.
 - 📸 **Fun Fact:** When not coding, I capture the world through my lens — view my creative work on my [Portfolio](https://harshallathiya.github.io/Photography_Portfolio/).
