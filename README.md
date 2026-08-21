@@ -2,7 +2,7 @@
 
 ### 🔹 About Me
 
-- 🎓 A **BCA Graduate (2026)** and aspiring **MCA student**, passionate about building robust and scalable web applications.
+- 🎓 A **MCA Student** & BCA Graduate (2026), passionate about building robust and scalable web applications.
 - 🔭 I’m currently transforming innovative ideas into production-ready web and mobile applications, with a strong focus on usability and scalability.
 - 🌱 Currently deepening skills in **PERN Stack** and **Google Cloud Platform (GCP)**.
 - 🧠 Continuously improving in **Data Structures**, **Algorithms**, and backend engineering fundamentals.
